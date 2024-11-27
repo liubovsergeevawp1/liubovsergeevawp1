@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liubovsergeeva
 - 👀 I’m interested in QA
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Python
 
 
 
